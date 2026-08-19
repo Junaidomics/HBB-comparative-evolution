@@ -223,11 +223,6 @@ The notebook intentionally reuses variables created in earlier cells. Running a 
 ```text
 NameError: name 'records' is not defined
 ```
-
-### External tools
-
-**MAFFT is not required for this version.**
-
 The four curated CDS records are equal in length and pass the notebook's comparability checks, allowing the position-wise nucleotide analysis to be performed directly.
 
 ---
