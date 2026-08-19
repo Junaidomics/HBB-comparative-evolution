@@ -1,7 +1,6 @@
 # Comparative Evolution of the HBB Gene Across Primates
 
-**Author:** Muhammad Junaid  
-**Background:** BS Biotechnology  
+ 
 **Project type:** Comparative bioinformatics / molecular evolution
 
 ## Project overview
